@@ -17,11 +17,11 @@ const products = [
 		name: 'iPhone 13 Pro 1TB Memory',
 		image: '/images/ip13.png',
 		description:
-			'Most advanced dual‑camera system ever.A lightning-fast chip that leaves the competition behind.Ceramic shield front, Glass back and aluminum design',
+			'Most advanced dual‑camera system ever.A lightning-fast chip that leaves the competition behind.Ceramic shield front, Glass back and aluminum design.',
 		brand: 'Apple',
 		category: 'Electronics',
 		price: 999.99,
-		countInStock: 10,
+		countInStock: 0,
 		rating: 4.0,
 		numReviews: 8,
 	},
@@ -41,9 +41,9 @@ const products = [
 	{
 		_id: '4',
 		name: 'MacBook Pro',
-		image: '/images/mbp.png',
+		image: '/images/mbp1.png',
 		description:
-			'10-Core CPU, 16-Core GPU, 16GB Unified Memory, 512GB SSD Storage¹, 16-core Neural Engine, 16-inch Liquid Retina XDR display, Three Thunderbolt 4 ports, HDMI port, SDXC card slot, MagSafe 3 port, Magic Keyboard with Touch ID, Force Touch trackpad, 140W USB-C Power Adapter',
+			'10-Core CPU, 16-Core GPU, 16GB Unified Memory, 512GB SSD Storage¹, 16-core Neural Engine, 16-inch Liquid Retina XDR display, Three Thunderbolt 4 ports, HDMI port, SDXC card slot, MagSafe 3 port, Magic Keyboard with Touch ID, Force Touch trackpad, 140W USB-C Power Adapter.',
 		brand: 'Apple',
 		category: 'Electronics',
 		price: '2,499.99',
@@ -66,7 +66,7 @@ const products = [
 	},
 	{
 		_id: '6',
-		name: 'BELLA - EXCLUSIVE PRELAUNCH',
+		name: 'Louis Vuitton - BELLA - EXCLUSIVE PRELAUNCH',
 		image: '/images/lvbag.png',
 		description:
 			'The Bella bucket bag is made from Mahina calf leather with a metallized aspect. The bag’s small size, perforated Monogram pattern, and attached round coin purse make it modern, desirable and trendy.',
@@ -79,7 +79,7 @@ const products = [
 	},
 	{
 		_id: '7',
-		name: 'ULTIMATE ANKLE BOOT',
+		name: 'Louis Vuitton - ULTIMATE ANKLE BOOT',
 		image: '/images/lvboot.png',
 		description:
 			'Crafted from velvety suede calf leather, the Ultimate ankle boot is a feminine design which contrasts a sleek upper with an embellished heel. ',
@@ -92,7 +92,7 @@ const products = [
 	},
 	{
 		_id: '8',
-		name: 'HORIZON SOFT DUFFLE 55',
+		name: 'Louis Vuitton - HORIZON SOFT DUFFLE 55',
 		image: '/images/lvduffle.png',
 		description:
 			'Designed in collaboration with famed industrial designer Marc Newson, the Horizon Soft Duffel 55 is a rolling duffel bag, made from Damier Graphite coated canvas. Ultra-modern and very practical, it offers an extra-large capacity in a cabin-size bag, thanks to its external trolley system. Its wide U opening and double-zip closing system provide quick access to what’s inside. ',
