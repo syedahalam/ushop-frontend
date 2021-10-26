@@ -1,1 +1,1 @@
-# meal-Idea-app
+# USHOP-App
